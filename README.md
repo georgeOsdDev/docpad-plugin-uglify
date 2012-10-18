@@ -1,3 +1,7 @@
+This plugin is managed at [docpad/docpad-plugin-uglify](https://github.com/docpad/docpad-plugin-uglify) now.
+
+* * *
+
 # UglifyJS Plugin for DocPad
 Adds support for [UglifyJS](https://github.com/mishoo/UglifyJS) 's parser/compressor to [DocPad](https://github.com/bevry/docpad)
 
